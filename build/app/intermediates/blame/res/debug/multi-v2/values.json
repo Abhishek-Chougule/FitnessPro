@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "H:\\BTech 8th Sem\\FitnessPro\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "H:\\BTech\\FitnessPro\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "H:\\BTech 8th Sem\\FitnessPro\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "H:\\BTech\\FitnessPro\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
