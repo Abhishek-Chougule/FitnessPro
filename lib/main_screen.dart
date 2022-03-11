@@ -55,7 +55,7 @@ class _MainScreenState extends State<MainScreen> {
             child: Text(
               'FitnessPro',
               style: TextStyle(
-                color: Color(0xFFFE7C7C),
+                color: Color(0xFF42A5F5),
                 fontWeight: FontWeight.bold,
                 fontSize: 28.0,
               ),
@@ -74,8 +74,8 @@ class _MainScreenState extends State<MainScreen> {
           ),
           SizedBox(height: 50),
          Center(child: Card(
-              color: Colors.black87.withOpacity(0.7),
-              elevation: 3,
+              color: Colors.white,
+              elevation: 0,
               shape: RoundedRectangleBorder(
                   borderRadius: BorderRadius.circular(10)),
               child: Container(
@@ -93,14 +93,14 @@ class _MainScreenState extends State<MainScreen> {
                         style: GoogleFonts.darkerGrotesque(
                           fontSize: 80,
                           color: Colors.white,
-                          fontWeight: FontWeight.w900,
+                          fontWeight: FontWeight.w700,
                         ),
                       ),
                     ),
                     Text(
                       "Steps Today",
                       style: TextStyle(
-                        color: Colors.white,
+                        color: Colors.black,
                         fontSize: 20,
                         fontWeight: FontWeight.w700,
                       ),
@@ -118,7 +118,7 @@ class _MainScreenState extends State<MainScreen> {
             child: Text(
               'AI Based Workouts :',
               style: TextStyle(
-                color: Color(0xFFFE7C7C),
+                color: Color(0xFF42A5F5),
                 fontWeight: FontWeight.bold,
                 fontSize: 20.0,
               ),
