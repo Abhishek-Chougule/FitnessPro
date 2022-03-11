@@ -23,6 +23,21 @@ public final class GeneratedPluginRegistrant {
       Log.e(TAG, "Error registering plugin camera, io.flutter.plugins.camera.CameraPlugin", e);
     }
     try {
+      flutterEngine.getPlugins().add(new io.flutter.plugins.pathprovider.PathProviderPlugin());
+    } catch(Exception e) {
+      Log.e(TAG, "Error registering plugin path_provider, io.flutter.plugins.pathprovider.PathProviderPlugin", e);
+    }
+    try {
+      cachet.plugins.pedometer.PedometerPlugin.registerWith(shimPluginRegistry.registrarFor("cachet.plugins.pedometer.PedometerPlugin"));
+    } catch(Exception e) {
+      Log.e(TAG, "Error registering plugin pedometer, cachet.plugins.pedometer.PedometerPlugin", e);
+    }
+    try {
+      flutterEngine.getPlugins().add(new io.flutter.plugins.sharedpreferences.SharedPreferencesPlugin());
+    } catch(Exception e) {
+      Log.e(TAG, "Error registering plugin shared_preferences, io.flutter.plugins.sharedpreferences.SharedPreferencesPlugin", e);
+    }
+    try {
       sq.flutter.tflite.TflitePlugin.registerWith(shimPluginRegistry.registrarFor("sq.flutter.tflite.TflitePlugin"));
     } catch(Exception e) {
       Log.e(TAG, "Error registering plugin tflite, sq.flutter.tflite.TflitePlugin", e);

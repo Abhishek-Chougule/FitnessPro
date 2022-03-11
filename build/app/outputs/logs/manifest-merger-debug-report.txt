@@ -6,6 +6,9 @@ INJECTED from H:\BTech\FitnessPro\android\app\src\main\AndroidManifest.xml:1:1-4
 INJECTED from H:\BTech\FitnessPro\android\app\src\main\AndroidManifest.xml:1:1-47:12
 MERGED from H:\BTech\FitnessPro\android\app\src\main\AndroidManifest.xml:1:1-47:12
 MERGED from [:tflite] H:\BTech\FitnessPro\build\tflite\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences] H:\BTech\FitnessPro\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider] H:\BTech\FitnessPro\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:pedometer] H:\BTech\FitnessPro\build\pedometer\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
 MERGED from [:camera] H:\BTech\FitnessPro\build\camera\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-10:12
 MERGED from [org.tensorflow:tensorflow-lite:2.8.0] C:\Users\MrAbhi\.gradle\caches\transforms-2\files-2.1\600d42ddb2fd48d740691b9f21599ce1\tensorflow-lite-2.8.0\AndroidManifest.xml:2:1-12:12
 MERGED from [org.tensorflow:tensorflow-lite-gpu:2.8.0] C:\Users\MrAbhi\.gradle\caches\transforms-2\files-2.1\1c464ae17d844c49e01ebf5e89f1319e\tensorflow-lite-gpu-2.8.0\AndroidManifest.xml:2:1-12:12
@@ -110,6 +113,12 @@ INJECTED from H:\BTech\FitnessPro\android\app\src\main\AndroidManifest.xml
 INJECTED from H:\BTech\FitnessPro\android\app\src\main\AndroidManifest.xml
 MERGED from [:tflite] H:\BTech\FitnessPro\build\tflite\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:tflite] H:\BTech\FitnessPro\build\tflite\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] H:\BTech\FitnessPro\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] H:\BTech\FitnessPro\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] H:\BTech\FitnessPro\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] H:\BTech\FitnessPro\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:pedometer] H:\BTech\FitnessPro\build\pedometer\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:pedometer] H:\BTech\FitnessPro\build\pedometer\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:camera] H:\BTech\FitnessPro\build\camera\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:camera] H:\BTech\FitnessPro\build\camera\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [org.tensorflow:tensorflow-lite:2.8.0] C:\Users\MrAbhi\.gradle\caches\transforms-2\files-2.1\600d42ddb2fd48d740691b9f21599ce1\tensorflow-lite-2.8.0\AndroidManifest.xml:7:5-8:41

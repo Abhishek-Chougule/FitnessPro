@@ -19,6 +19,15 @@ dependencies:
   tflite: ^1.1.1
   font_awesome_flutter: ^8.10.0
   line_awesome_flutter: ^1.0.1
+  pedometer:
+    git:
+      url: git://github.com/feelfreelinux/flutter-plugins.git
+      path: packages/pedometer
+  shared_preferences: ^0.5.7+3
+  google_fonts: ^1.1.0
+  jiffy: ^3.0.1
+  hive: ^1.4.1+1
+  hive_flutter: ^0.3.0+2
 
 dev_dependencies:
   flutter_test:

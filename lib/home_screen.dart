@@ -36,13 +36,13 @@ class _HomeScreenState extends State<HomeScreen> {
       ),
       bottomNavigationBar: BottomNavigationBar(
         backgroundColor: Colors.white,
-        showSelectedLabels: false,
+        showSelectedLabels: true,
         showUnselectedLabels: false,
         items: const <BottomNavigationBarItem>[
           BottomNavigationBarItem(
             backgroundColor: Colors.white,
-            icon: Icon(LineAwesomeIcons.universal_access),
-            label: 'Align',
+            icon: Icon(LineAwesomeIcons.shoe_prints),
+            label: 'Progress',
           ),
           BottomNavigationBarItem(
             backgroundColor: Colors.white,
